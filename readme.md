@@ -16,9 +16,10 @@ http://keisuna.github.io/WebVRContent/index.html
 
 HMD: HTC Vive
 
-
+　　　　　　　
 
 操作方法:
+
 Vive コントローラー
 
 メニューボタンを押す→UIの表示・非表示
