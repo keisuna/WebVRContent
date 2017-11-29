@@ -1,5 +1,7 @@
-WebVRContent
+WebVRSample
 ====
+
+Unityで作成したWebVRのサンプルコンテンツです
 
 コンテンツページ:
 
