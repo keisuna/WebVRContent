@@ -5,7 +5,7 @@ Unityで作成したWebVRのサンプルコンテンツです
 
 コンテンツページ:
 
-http://keisuna.github.io/WebVRContent/index.html
+https://keisuna.github.io/WebVRSample/
 
 
 　　　
