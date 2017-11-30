@@ -7,7 +7,7 @@ Unityで作成したWebVRのサンプルコンテンツです
 
 https://keisuna.github.io/WebVRSample/
 
-![result](https://github.com/keisuna/WebVRSample/blob/Movie/WebVRSample.gif
+![result](https://github.com/keisuna/WebVRSample/blob/Movie/WebVRSample.gif)
 
 　　　
 
