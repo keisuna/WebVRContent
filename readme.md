@@ -8,6 +8,8 @@ Unityで作成したWebVRのサンプルコンテンツです
 https://keisuna.github.io/WebVRSample/
 
 
+https://github.com/keisuna/WebVRSample/blob/Movie/WebVRSample.gif
+
 　　　
 
 動作環境(確認済み):
